@@ -2,8 +2,8 @@
 Veebiteenused-client sisaldab endas Web Services Client-it, millega saab testida osaliselt repos "veebiteenused" asuvat projekti. 
 
 # How to
-* git clone https://gitlab.com/brenrrr/veebiteenused.git
-* git clone https://gitlab.com/brenrrr/veebiteenused-client.git
+* git clone https://github.com/BrendaUga/veebiteenused.git
+* git clone https://github.com/BrendaUga/veebiteenused-client.git
 * Ava mõlemad projektid Netbeansis
 * Deploy PhotosApp
 * Run Client
